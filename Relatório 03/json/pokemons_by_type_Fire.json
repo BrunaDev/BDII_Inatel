@@ -1,0 +1,396 @@
+[
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bef6"
+        },
+        "id": 4,
+        "num": "004",
+        "name": "Charmander",
+        "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "0.61 m",
+        "weight": "8.5 kg",
+        "candy": "Charmander Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 0.253,
+        "avg_spawns": 25.3,
+        "spawn_time": "08:45",
+        "multipliers": [
+            1.65
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "005",
+                "name": "Charmeleon"
+            },
+            {
+                "num": "006",
+                "name": "Charizard"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bef7"
+        },
+        "id": 5,
+        "num": "005",
+        "name": "Charmeleon",
+        "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "1.09 m",
+        "weight": "19.0 kg",
+        "candy": "Charmander Candy",
+        "candy_count": 100,
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.012,
+        "avg_spawns": 1.2,
+        "spawn_time": "19:00",
+        "multipliers": [
+            1.79
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "004",
+                "name": "Charmander"
+            }
+        ],
+        "next_evolution": [
+            {
+                "num": "006",
+                "name": "Charizard"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bef8"
+        },
+        "id": 6,
+        "num": "006",
+        "name": "Charizard",
+        "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "height": "1.70 m",
+        "weight": "90.5 kg",
+        "candy": "Charmander Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.0031,
+        "avg_spawns": 0.31,
+        "spawn_time": "13:34",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Electric",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "004",
+                "name": "Charmander"
+            },
+            {
+                "num": "005",
+                "name": "Charmeleon"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf17"
+        },
+        "id": 37,
+        "num": "037",
+        "name": "Vulpix",
+        "img": "http://www.serebii.net/pokemongo/pokemon/037.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "0.61 m",
+        "weight": "9.9 kg",
+        "candy": "Vulpix Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.22,
+        "avg_spawns": 22,
+        "spawn_time": "13:43",
+        "multipliers": [
+            2.74,
+            2.81
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "038",
+                "name": "Ninetales"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf18"
+        },
+        "id": 38,
+        "num": "038",
+        "name": "Ninetales",
+        "img": "http://www.serebii.net/pokemongo/pokemon/038.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "1.09 m",
+        "weight": "19.9 kg",
+        "candy": "Vulpix Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.0077,
+        "avg_spawns": 0.77,
+        "spawn_time": "01:32",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "037",
+                "name": "Vulpix"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf2c"
+        },
+        "id": 58,
+        "num": "058",
+        "name": "Growlithe",
+        "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "0.71 m",
+        "weight": "19.0 kg",
+        "candy": "Growlithe Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.92,
+        "avg_spawns": 92,
+        "spawn_time": "03:57",
+        "multipliers": [
+            2.31,
+            2.36
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "059",
+                "name": "Arcanine"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf2d"
+        },
+        "id": 59,
+        "num": "059",
+        "name": "Arcanine",
+        "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "1.91 m",
+        "weight": "155.0 kg",
+        "candy": "Growlithe Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "03:11",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "058",
+                "name": "Growlithe"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf3f"
+        },
+        "id": 77,
+        "num": "077",
+        "name": "Ponyta",
+        "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "0.99 m",
+        "weight": "30.0 kg",
+        "candy": "Ponyta Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.51,
+        "avg_spawns": 51,
+        "spawn_time": "02:50",
+        "multipliers": [
+            1.48,
+            1.5
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "078",
+                "name": "Rapidash"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf40"
+        },
+        "id": 78,
+        "num": "078",
+        "name": "Rapidash",
+        "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "1.70 m",
+        "weight": "95.0 kg",
+        "candy": "Ponyta Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.011,
+        "avg_spawns": 1.1,
+        "spawn_time": "04:00",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "077",
+                "name": "Ponyta"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf70"
+        },
+        "id": 126,
+        "num": "126",
+        "name": "Magmar",
+        "img": "http://www.serebii.net/pokemongo/pokemon/126.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "1.30 m",
+        "weight": "44.5 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.1,
+        "avg_spawns": 10,
+        "spawn_time": "20:36",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf7a"
+        },
+        "id": 136,
+        "num": "136",
+        "name": "Flareon",
+        "img": "http://www.serebii.net/pokemongo/pokemon/136.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "0.89 m",
+        "weight": "25.0 kg",
+        "candy": "Eevee Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "07:02",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "133",
+                "name": "Eevee"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67c713bc47c265391769bf84"
+        },
+        "id": 146,
+        "num": "146",
+        "name": "Moltres",
+        "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "height": "2.01 m",
+        "weight": "60.0 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Electric",
+            "Rock"
+        ]
+    }
+]
